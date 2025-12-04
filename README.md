@@ -1,4 +1,4 @@
-# CLearn2025slebew
+# c-learn-2025
 "Mencoba git"
 - nama : Aruna Jannu Rezasyah
 - nim : 103022430015
